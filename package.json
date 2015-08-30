@@ -1,0 +1,14 @@
+{
+  "name": "seed-savers-exchange",
+  "version": "1.0.0",
+  "description": "utility to scrape and parse seed savers exchange site and create json catalog",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kevin Neff <kvnneff@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "osmosis": "0.0.8",
+  }
+}
